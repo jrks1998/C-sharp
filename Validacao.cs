@@ -13,9 +13,9 @@ namespace console_dotnet
             int resposta = Convert.ToInt32(Console.ReadLine());
 
             if (resposta == resul) {
-                System.Console.WriteLine("legalzinho");
+                System.Console.WriteLine("Acesso liberado!");
             } else {
-                System.Console.WriteLine("errroooooooo");
+                System.Console.WriteLine("Acesso bloqueado!");
             }
         }
     }

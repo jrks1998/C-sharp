@@ -27,7 +27,7 @@ namespace console_dotnet
             System.Console.WriteLine(aqui.soma(10, 5));
 
             Validacao v = new Validacao();
-            v.numero(0, 9);
+            v.numero(0, 10);
         }
     }
 }
