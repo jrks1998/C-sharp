@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "/home/nesfit/.nuget/packages/": {},
+    "/home/ubuntu/.nuget/packages/": {},
     "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nesfit/Área de Trabalho/C-sharp/console-dotnet.csproj",
+      "projectUniqueName": "/home/ubuntu/dotnet/doido/console-dotnet/C-sharp/console-dotnet.csproj",
       "projectName": "console-dotnet",
-      "projectPath": "/home/nesfit/Área de Trabalho/C-sharp/console-dotnet.csproj",
-      "packagesPath": "/home/nesfit/.nuget/packages/",
-      "outputPath": "/home/nesfit/Área de Trabalho/C-sharp/obj/",
+      "projectPath": "/home/ubuntu/dotnet/doido/console-dotnet/C-sharp/console-dotnet.csproj",
+      "packagesPath": "/home/ubuntu/.nuget/packages/",
+      "outputPath": "/home/ubuntu/dotnet/doido/console-dotnet/C-sharp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/nesfit/.nuget/NuGet/NuGet.Config"
+        "/home/ubuntu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
